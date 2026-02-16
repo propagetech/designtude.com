@@ -4,7 +4,7 @@
   font-weight: 300;
   font-stretch: normal;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClntA.ttf) format('truetype');
+  src: url('fonts/cbab07423d5a4cf0dd6b4e8be1e71655.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Nunito Sans';
@@ -12,7 +12,7 @@
   font-weight: 400;
   font-stretch: normal;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf) format('truetype');
+  src: url('fonts/71e78e2a7b65659aa45c83819076c9fe.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Nunito Sans';
@@ -20,7 +20,7 @@
   font-weight: 600;
   font-stretch: normal;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5ntA.ttf) format('truetype');
+  src: url('fonts/a39dd09df21303c6c179d2838a66bbff.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Nunito Sans';
@@ -28,5 +28,5 @@
   font-weight: 700;
   font-stretch: normal;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/nunitosans/v19/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5ntA.ttf) format('truetype');
+  src: url('fonts/d9b9587594396fa4e8a92430c097de1d.ttf') format('truetype');
 }
